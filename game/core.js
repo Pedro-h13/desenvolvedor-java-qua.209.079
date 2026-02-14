@@ -442,7 +442,7 @@ if (require.main === module) {
   if (inimigo2.vida > 0) inimigo2.atacar(jogador);
 
   // Salvar e recarregar demonstração
-  const savePath = 'game/save.json';
+  const savePath = 'save.json';
   salvarJogo(jogador, savePath);
   const jogadorCarregado = carregarJogo(savePath);
   if (jogadorCarregado) {
