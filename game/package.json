@@ -1,0 +1,17 @@
+{
+  "name": "missao-zona-norte",
+  "version": "1.0.0",
+  "description": "Core do jogo Missão: Zona Norte",
+  "main": "core.js",
+  "scripts": {
+    "start": "node core.js",
+    "test": "jest --coverage",
+    "lint": "echo \"No linter configured\""
+  },
+  "keywords": ["game", "rpg", "missao-zona-norte"],
+  "author": "Pedro",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
