@@ -31,3 +31,13 @@ npm start
 ```bash
 npm test
 ```
+
+Status do CI: ![CI](https://github.com/Pedro-h13/desenvolvedor-java-qua.209.079/actions/workflows/nodejs-game.yml/badge.svg)
+
+Sobre este diretório:
+- `core.js`: implementação principal do jogo (atributos, jogador, combate, inventário, persistência).
+- `__tests__`: testes Jest cobrindo funcionalidades básicas.
+- `save.json`: arquivo de save gerado em demonstrações (não versionado).
+
+Contribuições:
+- Faça um fork e abra PR para novas features ou correções.
