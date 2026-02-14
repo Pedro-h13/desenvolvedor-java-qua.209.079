@@ -1,0 +1,5 @@
+node_modules/
+save.json
+test_save.json
+game/save.json
+*.log
